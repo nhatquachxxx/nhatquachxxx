@@ -4,8 +4,6 @@ _Welcome to my personal portfolio which serves as a place for me to showcase my 
 
 ## ☎️ Contact
 
-* **Github**: https://github.com/nhatquachxxx
-
 * **Linkedin**: https://www.linkedin.com/in/nhatquach1011
 
 * **Email**: nhatquach1011@gmail.com
