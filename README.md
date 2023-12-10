@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there! This is Nhat Quach 👋
+_Welcome to my personal portfolio which serves as a place for me to showcase my projects especially in data analyzation and transformation aspects._
+<br/><br/>
 
-<!--
-**nhatquachxxx/nhatquachxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☎️ Contact
 
-Here are some ideas to get you started:
+* **Github**: https://github.com/nhatquachxxx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Linkedin**: https://www.linkedin.com/in/nhatquach1011
+
+* **Email**: nhatquach1011@gmail.com
+<br/><br/>
+
+## 🛠️ My Toolset
+
+<p align="center">
+    <img src="pictures/dbt.png" width="50" />
+    <img src="pictures/google_bigquery.png" width="50" />
+    <img src="pictures/airflow.png" width="45" />
+    <img src="pictures/postgres.png " width="50" />
+    <img src="pictures/looker.png" width="50" />
+    <img src="pictures/power_bi.png" width="43" />
+    <img src="pictures/git.png" width="50" />
+    <img src="pictures/jira.png" width="50" />
+    <img src="pictures/airbyte.png" width="60" />
+</p>
+<br/>
