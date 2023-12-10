@@ -1,4 +1,4 @@
-<img src="pictures/rounded-in-photoretrica-min.png" width="50" />
+<img src="pictures/rounded-in-photoretrica.png" width="300" />
 ## Hi there! This is Nhat Quach 👋
 _Welcome to my personal portfolio which serves as a place for me to showcase my projects especially in data analyzing and transformation aspects._
 <br/><br/>
